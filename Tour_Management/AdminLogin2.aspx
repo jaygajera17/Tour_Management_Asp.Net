@@ -20,8 +20,8 @@
 <body>
     <form id="form1" runat="server">
         <div class="container">
-      
-        <asp:Label ID="name1" runat="server" Text="name"></asp:Label><br />
+      <h1>Admin Login</h1>
+        <asp:Label ID="name1" runat="server" Text="Email"></asp:Label><br />
         <asp:TextBox ID="name" runat="server"></asp:TextBox><br />
         <asp:Label ID="password1" runat="server" Text="password"></asp:Label><br />
         <asp:TextBox ID="password" runat="server" TextMode="Password"></asp:TextBox><br />

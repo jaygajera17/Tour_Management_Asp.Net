@@ -58,7 +58,7 @@
         <div class="form-group">
                     <div class="control-label col-sm-4"><asp:Label ID="Label6" runat="server" Text="Re-enter Password"/></div>
                     <div class="col-sm-6"><asp:TextBox ID="password2" type="password" required="true" runat="server"  ForeColor="Black" class="form-control"/></div>
-                    <br /><asp:CompareValidator ID="cmp1" runat="server" ControlToValidate="password2" ControlToCompare="password1" ErrorMessage="password doesn't match" Type="String" Display="Dynamic"></asp:CompareValidator>   
+                    <br />   
               </div>
                
         <div class="form-group">            

@@ -108,7 +108,7 @@ li a:hover:not(.active) {
                 <li><a href="usercrud.aspx"><span class="glyphicons glyphicons-home"></span>Profile</a></li>
                 <li><a href="DisplayTours.aspx">Tours</a></li>    
                  <li><a href="Order.aspx">Book Tour</a></li> 
-                  <li><a href="mybooking.aspx">Current Booking</a></li>
+                  <li><a href="mybooking.aspx">Bookings info</a></li>
                 
                 
             </ul>

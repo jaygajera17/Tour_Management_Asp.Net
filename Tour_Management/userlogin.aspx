@@ -63,8 +63,8 @@
                         
                         
                            
-                           <div class="control-label col-sm-2"><asp:Button BackColor="#cc6600" ID="Register" runat="server" Text="Login" ForeColor="Black" class="form-control" OnClick="Btn_Submit" /></div>
-                            <div class="control-label col-sm-2"><asp:Button BackColor="#cc6600" ID="Button1" runat="server" Text="Registration" ForeColor="Black" class="form-control" OnClick="Btn_reg" /></div>
+                           <div class="control-label col-sm-2"><asp:Button BackColor="#cc6600" ID="Register" runat="server" Text="Login" ForeColor="Black" class="form-control" OnClick="Btn_Submit" Height="35px" Width="92px" /></div>
+                            <div class="control-label col-sm-2"><asp:Button BackColor="#cc6600" ID="Button1" runat="server" Text="Sign Up" ForeColor="Black" class="form-control" OnClick="Btn_reg" Height="38px" Width="137px" /></div>
                         
                     </div>
                 </div>
