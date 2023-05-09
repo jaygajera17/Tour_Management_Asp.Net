@@ -24,9 +24,6 @@
 ## Important Links
 - 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝘃𝗶𝗱𝗲𝗼 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗗𝗲𝗺𝗼  ::---  [  click here  ](https://youtu.be/r-UfxsVzndk) [![youtube][youtube-shield]][youtube-url]
 
-- connect in Linked in ::---  [ https://www.linkedin.com/in/jay-gajera-a6496b204/]
-- instagram:- [https://instagram.com/jay_gajera_17]
-
 
 [youtube-shield]:https://img.shields.io/youtube/views/r-UfxsVzndk?style=social
 [youtube-url]:  https://youtu.be/r-UfxsVzndk
